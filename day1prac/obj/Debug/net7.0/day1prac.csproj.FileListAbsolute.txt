@@ -1,0 +1,15 @@
+C:\4-5\day1prac\bin\Debug\net7.0\day1prac.exe
+C:\4-5\day1prac\bin\Debug\net7.0\day1prac.deps.json
+C:\4-5\day1prac\bin\Debug\net7.0\day1prac.runtimeconfig.json
+C:\4-5\day1prac\bin\Debug\net7.0\day1prac.dll
+C:\4-5\day1prac\bin\Debug\net7.0\day1prac.pdb
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.csproj.AssemblyReference.cache
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.AssemblyInfoInputs.cache
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.AssemblyInfo.cs
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.csproj.CoreCompileInputs.cache
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.dll
+C:\4-5\day1prac\obj\Debug\net7.0\refint\day1prac.dll
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.pdb
+C:\4-5\day1prac\obj\Debug\net7.0\day1prac.genruntimeconfig.cache
+C:\4-5\day1prac\obj\Debug\net7.0\ref\day1prac.dll
